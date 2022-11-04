@@ -1,4 +1,4 @@
-## Hey, my name is Nicolas Cruvinel 👋
+## Hey, I'm Nicolas Cruvinel 👋
 
 Make yourself at home.
 <p style="display:flex;">
