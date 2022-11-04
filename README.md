@@ -6,7 +6,6 @@ Make yourself at home.
     <summary><strong>About Me</strong> 😄 </summary>
     <br>
     <ul>
-        <li>Microservices and Event-Driven</li>
         <li>
             🔭 Atualmente sou bolsista no Laboratório de Robôtica da Universidade de São Paulo
         </li>
