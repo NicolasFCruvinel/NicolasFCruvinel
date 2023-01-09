@@ -23,10 +23,10 @@ Make yourself at home.
 </p>
 
 
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/NicolasFCruvinel">
-  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasFCruvinel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img width="400em" height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFCruvinel&layout=compact&langs_count=7&theme=merko"/>
+  <img width="400px" height="190px" src="https://github-readme-stats.vercel.app/api?username=NicolasFCruvinel&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"/>
+  <img width="300px" height="185px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasFCruvinel&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
 <div align="center">
