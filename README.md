@@ -13,7 +13,7 @@ Make yourself at home.
             🌱 Graduando em Engenharia Mecatrônica pela Escola de Engenharia de São Carlos - USP
         </li>
         <li>
-            ⚡ Querendo me desenvolver mais na área da programação (full stack e data science)
+            ⚡ Querendo me desenvolver mais na área da programação 
         </li>
         <li>
             Ele/Dele
