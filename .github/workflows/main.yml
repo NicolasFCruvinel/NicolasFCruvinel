@@ -28,10 +28,11 @@ jobs:
           # O seu nome de usuário do GitHub
           github_user_name: NicolasFCruvinel
           
-         outputs: |
+          # Lista de saídas em formato multilinhas para maior clareza
+          outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
+      
       # Atualizado para a versão v4
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
