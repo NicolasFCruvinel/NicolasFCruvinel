@@ -13,6 +13,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão para a Action escrever no repositório
 
     steps:
       # Atualizado para a versão v4
